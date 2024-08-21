@@ -1,0 +1,14 @@
+{
+  "name": "libre-office-convert-ppt-pdf",
+  "version": "1.0.0",
+  "description": "To work with AWS Lambda and API Gateway for converting ppt and pptx into pdf files",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@shelf/aws-lambda-libreoffice": "^7.0.0"
+  }
+}
